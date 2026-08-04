@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+data/bronze/*.csv
+data/silver/*.csv
+
 # C extensions
 *.so
 
