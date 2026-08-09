@@ -3,7 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-data/bronze/*.csv
+data/bronze/inpe/*.csv
+data/bronze/inmet/*.csv
 data/silver/*.csv
 
 # C extensions
