@@ -5,7 +5,9 @@ __pycache__/
 
 data/bronze/inpe/*.csv
 data/bronze/inmet/*.csv
-data/bronze/inpe_inmet
+data/bronze/inpe_inmet/ano*
+data/bronze/inpe_inmet/._SUCCESS*
+data/bronze/inpe_inmet/_SUCCESS*
 data/silver/
 
 # C extensions
